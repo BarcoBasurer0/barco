@@ -1,6 +1,21 @@
-### Hi guys, i'm Barco Basurero👋
+
+### Hi there, I'm BarcoBasurer0 👋
+
+![Discord](https://img.shields.io/discord/720326694271189124?label=Discord&logo=Discord)
 
 
+### Spotify Playing 🎧
 
-### What im currently listening to:
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5fc56b08654240a7&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=5fc56b08654240a7&redirect=true)
+[<img src="https://novatorem-seven-indol.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/ws02acp9yhpqltkquf1c0molt)
+
+[![Sebas's GitHub stats](https://github-readme-stats.vercel.app/api?username=BarcoBasurer0&theme=radical)](https://github.com/BarcoBasurer0/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BarcoBasurer0&layout=compact&theme=radical)](https://github.com/BarcoBasurer0/github-readme-stats)
+
+### Connect with me:
+[<img align="left" alt="Discord" width="44px" src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" />][discord]
+
+<br/> <br/>
+
+[discord]: https://discord.gg/d232jBTj3T
+[webdevplaylist]: https://discord.gg/d232jBTj3T
