@@ -6,7 +6,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-seven-indol.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/ws02acp9yhpqltkquf1c0molt)
+[<img src="https://novatorem-seven-indol.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/uliykakardo)
 
 [![Sebas's GitHub stats](https://github-readme-stats.vercel.app/api?username=BarcoBasurer0&theme=radical)](https://github.com/BarcoBasurer0/github-readme-stats)
 <br>
