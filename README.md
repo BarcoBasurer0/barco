@@ -18,3 +18,4 @@
 
 [discord]: https://discord.gg/BARCO BASURERO#7918
 [webdevplaylist]: https://discord.gg/d232jBTj3T
+[twitter]: https://twitter.com/uuliimonte
